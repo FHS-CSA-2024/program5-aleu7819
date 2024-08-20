@@ -8,7 +8,7 @@ public class Program5
 // import data
 int royaleMile=286;
 int royaleGallon=9;
-double royaleMpg= 0.0;
+double royaleMpg= 0.0; // initializes value as a double?
 
 int koopaMile=412;
 int koopaGallon=40;
